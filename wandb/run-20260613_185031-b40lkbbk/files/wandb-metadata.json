@@ -1,0 +1,40 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.12.3",
+  "startedAt": "2026-06-13T13:20:31.223459Z",
+  "program": "d:\\LoRA_QLoRA\\3QLoRA.ipynb",
+  "codePath": "d:\\LoRA_QLoRA\\3QLoRA.ipynb",
+  "codePathLocal": "3QLoRA.ipynb",
+  "git": {
+    "remote": "https://github.com/Krishwall/LoRA_QLoRA.git",
+    "commit": "e8dc54cf9fe0bb3e8577da530e8b333837ee0950"
+  },
+  "email": "coffeecruise1@gmail.com",
+  "root": "d:\\LoRA_QLoRA",
+  "host": "LAPTOP-N73A9S33",
+  "executable": "c:\\Users\\KRISH\\miniconda3\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "346567995392",
+      "used": "78138744832"
+    }
+  },
+  "memory": {
+    "total": "16831897600"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere",
+      "uuid": "GPU-745c28c8-6a7f-348d-8cb1-da5b05ac9711"
+    }
+  ],
+  "cudaVersion": "13.1",
+  "writerId": "rotzm9s5gpbaipxghwcp1r2d1jqq0603"
+}

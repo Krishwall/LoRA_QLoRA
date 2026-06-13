@@ -1,0 +1,4 @@
+Downloading shards:   0%|          | 0/4 [00:00<?, ?it/s]c:\Users\KRISH\miniconda3\Lib\site-packages\huggingface_hub\file_download.py:799: UserWarning: Not enough free disk space to download the file. The expected file size is: 4976.70 MB. The target location C:\Users\KRISH\.cache\huggingface\hub\models--meta-llama--Meta-Llama-3.1-8b\blobs only has 3494.99 MB free disk space.
+  warnings.warn(
+Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+Downloading shards:   0%|          | 0/4 [00:08<?, ?it/s]
